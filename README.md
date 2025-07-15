@@ -1,22 +1,63 @@
-# Jagadeesh-Varma-Gadiraju
 
-Hi! I'm Jagadeesh Varma Gadiraju — a passionate Data Engineer & Analyst with a knack for building data-driven solutions using Python, R, SQL, and cloud platforms like AWS and Azure.
+# 👋 Hi there! I'm Jagadeesh Varma Gadiraju
 
-🎓 I'm currently pursuing my Master’s in Data Analytics Engineering and working as a Data Analytics Engineer on a federal recidivism reduction platform powered by machine learning and NLP.
+A passionate **Data Engineer & Analyst** with a drive for building scalable, data-driven solutions using Python, R, SQL, and cloud platforms like AWS and Azure.
 
-🚀 I specialize in:
+---
 
-Designing robust ETL pipelines and scalable data architectures
+## 🎓 About Me
 
-Building ML models and NLP systems with BERT, RAG, and Deep Learning
+I'm currently pursuing my **Master’s in Data Analytics Engineering** at **George Mason University** and working as a **Data Analytics Engineer** on a federal **recidivism reduction platform** powered by **machine learning** and **natural language processing (NLP)**. This involves creating a secure web-based evaluation system using **BERT**, **RAG pipelines**, and real-time document processing.
 
-Creating interactive dashboards using Tableau and Power BI
+---
 
-Working across Databricks, Azure Synapse, Spark, and AWS S3/EC2
+## 🚀 Areas of Expertise
 
-🔧 Tools & Tech:
-Python, R, SQL, Power BI, Tableau, Azure, AWS, TensorFlow, Scikit-learn, Snowflake, MongoDB, SSIS, and more.
+- 🔄 **ETL Pipelines** & Scalable Data Architectures (SSIS, Azure Data Factory, Spark)
+- 🤖 **ML & NLP Models** – BERT, Deep Learning, Transformers, Scikit-learn
+- 📊 **Data Visualization** – Tableau, Power BI, ggplot2, dplyr
+- ☁️ **Cloud & Big Data** – Azure Synapse, Databricks, AWS S3/EC2/Lambda, Snowflake
 
-📫 Let's connect:
-jagadeeshvarma64@gmail.com/jgadiraj@gmu.edu
+---
 
+## 🛠️ Technical Skills
+
+**Languages**: Python, R, SQL, C  
+**Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, NLTK, Flask  
+**Databases**: MySQL, PostgreSQL, MongoDB, Azure SQL, DynamoDB  
+**Cloud Platforms**: AWS, Azure, Databricks  
+**Big Data**: Hadoop, Spark  
+**Visualization Tools**: Tableau, Power BI, Google Data Studio  
+**Other**: SSIS, Excel (Pivot Tables, Macros), Git, Snowflake
+
+---
+
+## 💼 Notable Projects
+
+- **Recidivism Reduction Platform (Capstone)**  
+  Led a secure ML-powered system for the Bureau of Prisons using NLP & RAG pipelines.
+
+- **Fake News Detection**  
+  Built deep learning-based detection system with BERT and Hugging Face Transformers.
+
+- **Big Data Retail Strategy**  
+  Analyzed customer behavior, pricing trends during festive events using R and Tableau.
+
+- **Credit Card Churn Prediction**  
+  Achieved 95% accuracy with Random Forest and Logistic Regression models.
+
+---
+
+## 📜 Certifications & Leadership
+
+- 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- 📈 Scrum Master for Capstone ML Project
+- 🎤 Organizer – Technical Symposium at RMK Engineering College (ECE Dept.)
+
+---
+
+## 📫 Connect with Me
+
+**Email**: jagadeeshvarma64@gmail.com | jgadiraj@gmu.edu  
+**GitHub**: [JagadeeshVarma64](https://github.com/JagadeeshVarma64)  
+**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/gadiraju-jagadeesh-varma-472a34237)
